@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    O projeto Alurinha foi criado para terinar o conhecimento em CSS FlexBox da Alura.
+    O projeto Alurinha foi criado para treinar o conhecimento em CSS FlexBox da Alura.
 </h3>
 
 
